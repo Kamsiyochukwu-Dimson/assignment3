@@ -1,0 +1,122 @@
+/* Global Styling */
+*{
+    box-sizing: border-box;
+}
+body{
+    background-color: hsl(30, 54%, 90%);
+}
+/* Global Styling End */
+
+/* Main Start */
+main{
+    margin: 5rem 25rem;
+    padding: 1.5rem;
+    background-color: hsl(0, 0%, 100%);
+    border-radius: 1.5%;
+}
+.main img{
+    width: 100%;
+}
+.writeup h1{
+    font-family: "Young Serif", serif;
+    font-weight: 400;
+    font-style: normal;
+    color: hsl(24, 5%, 18%);
+}
+.writeup p{
+    color: hsl(24, 5%, 18%);
+    font-family: "Outfit", sans-serif;
+    font-weight: 700;
+    font-style: normal;
+    font-size: small;
+}
+.preparation{
+    background-color: hsl(330, 100%, 98%);
+    padding: 1rem;
+    border-radius: 10%;
+}
+.preparation h4{
+    color: hsl(332, 51%, 32%);
+    font-family: "Outfit", sans-serif;
+    font-weight: 600;
+    font-style: normal;
+}
+.preparation ul{
+    color:  hsl(30, 10%, 34%);
+    font-family: "Outfit", sans-serif;
+    font-weight: 700;
+    font-style: normal;
+    font-size: small;
+}
+.ingredients h2{
+    font-family: "Young Serif", serif;
+    font-weight: 400;
+    font-style: normal;
+    color: hsl(14, 45%, 36%);
+}
+.ingredients ul{
+    color: hsl(30, 10%, 34%);
+    font-family: "Outfit", sans-serif;
+    font-weight: 700;
+    font-style: normal;
+    font-size: small;
+}
+.instructions h2{
+    font-family: "Young Serif", serif;
+    font-weight: 400;
+    font-style: normal;
+    color: hsl(14, 45%, 36%)
+}
+.instructions ol{
+    color: hsl(30, 10%, 34%);
+    font-family: "Outfit", sans-serif;
+    font-weight: 700;
+    font-style: normal;
+    font-size: small;
+}
+.nutrition h2{
+    font-family: "Young Serif", serif;
+    font-weight: 400;
+    font-style: normal;
+    color: hsl(14, 45%, 36%)
+}
+.nutrition p{
+    color: hsl(30, 10%, 34%);
+    font-family: "Outfit", sans-serif;
+    font-weight: 700;
+    font-style: normal;
+    font-size: small;
+}
+.up{
+    display: flex;
+    justify-content: space-around;
+}
+.middle1{
+    display: flex;
+    justify-content: space-around;
+}
+.middle2{
+    display: flex;
+    justify-content: space-around;
+}
+.down{
+    display: flex;
+    justify-content: space-around;
+}
+.up-right p{
+    color: hsl(14, 45%, 36%)
+}
+.middle1-right p{
+    color: hsl(14, 45%, 36%)
+}
+.middle2-right p{
+    color: hsl(14, 45%, 36%)
+}
+.down-right p{
+    color: hsl(14, 45%, 36%)
+}
+/* Main End */
+
+footer{
+    text-align: center;
+}
